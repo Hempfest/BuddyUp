@@ -1,0 +1,7 @@
+name: BuddyUp
+version: 1.0.3
+api-version: 1.16
+author: Hempfest
+soft-depend: [PlaceholderAPI]
+description: A lightweight and easy way to ally other players!
+main: xyz.mcvintage.hempfest.buddyup.BuddyUp
